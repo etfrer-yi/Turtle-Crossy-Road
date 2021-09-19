@@ -3,4 +3,4 @@ This is a simple game GUI made using the turtle module in Python. It plays simil
 
 To play the game, simply download all .py files and run the main file. 
 
-NOTE: courtesy of Angela Yu's Python bootcamp for the idea and pictures of the final product, but the code is entirely mine. 
+NOTE: courtesy of Angela Yu's Python bootcamp for the idea and pictures of the final product, along with the tutorial on how to accomplish a similar project, but the code is entirely mine. 
